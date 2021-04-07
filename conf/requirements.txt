@@ -1,0 +1,10 @@
+lettuce
+python-Levenshtein==0.12.0
+Fabric
+pyvirtualdisplay
+-e git+https://github.com/cobrateam/splinter.git#egg=splinter
+coverage
+-e git+https://github.com/rholder/retrying.git#egg=retrying
+Faker
+ipdb
+requests

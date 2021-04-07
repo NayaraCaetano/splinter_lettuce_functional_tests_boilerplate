@@ -1,0 +1,6 @@
+xvfb
+python-dev
+python-pip
+libpq-dev
+libnss3
+npm
